@@ -29,6 +29,10 @@
 	ul {
 		display: flex;
 	}
+
+	li:first-child {
+		font-weight: bold;
+	}
 }
 
 .logo {
@@ -42,10 +46,16 @@
 	font-size: 11px;
 	margin-top: 10px;
 	margin-bottom: 10px;
+	// justify-content: space-between;
 
 	li {
 		margin-left: 10px;
 		border-right: 1px solid $light-gray;
+	}
+
+	li:first-child {
+		margin-left: 0;
+		padding-right: 10px;
 	}
 
 	li:last-child {
@@ -65,7 +75,7 @@
 	}
 
 	a,
-	button, 
+	button,
 	time {
 		margin-right: 10px;
 	}
