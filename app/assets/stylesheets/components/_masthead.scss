@@ -48,6 +48,10 @@
 		border-right: 1px solid $light-gray;
 	}
 
+	li:last-child {
+		border: 0;
+	}
+
 	button {
 		background: none;
 		padding: 0px;
