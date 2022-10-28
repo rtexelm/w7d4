@@ -1,0 +1,431 @@
+Started GET "/" for ::1 at 2022-10-27 14:53:48 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.1ms | Allocations: 122)
+  Rendered shared/_masthead.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1573)
+  Rendered layout layouts/application.html.erb (Duration: 129.4ms | Allocations: 149979)
+Completed 200 OK in 133ms (Views: 131.3ms | ActiveRecord: 0.0ms | Allocations: 152409)
+
+
+Started GET "/" for ::1 at 2022-10-27 16:03:24 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.3ms | Allocations: 130)
+  Rendered shared/_masthead.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1582)
+  Rendered layout layouts/application.html.erb (Duration: 41.4ms | Allocations: 33420)
+Completed 200 OK in 46ms (Views: 43.4ms | ActiveRecord: 0.0ms | Allocations: 35849)
+
+
+Started GET "/" for ::1 at 2022-10-27 16:17:13 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.1ms | Allocations: 29)
+  Rendered shared/_masthead.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_search_modal.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_main_content.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 404)
+  Rendered layout layouts/application.html.erb (Duration: 8.2ms | Allocations: 4035)
+Completed 200 OK in 9ms (Views: 8.8ms | Allocations: 4336)
+
+
+Started GET "/" for ::1 at 2022-10-27 16:17:43 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.1ms | Allocations: 20)
+  Rendered shared/_masthead.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_search_modal.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_main_content.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 389)
+  Rendered layout layouts/application.html.erb (Duration: 10.7ms | Allocations: 3765)
+Completed 200 OK in 12ms (Views: 11.2ms | Allocations: 4012)
+
+
+Started GET "/" for ::1 at 2022-10-27 16:19:30 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.1ms | Allocations: 20)
+  Rendered shared/_masthead.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_search_modal.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_main_content.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 389)
+  Rendered layout layouts/application.html.erb (Duration: 11.6ms | Allocations: 3766)
+Completed 200 OK in 13ms (Views: 11.9ms | Allocations: 4014)
+
+
+Started GET "/" for ::1 at 2022-10-27 16:20:26 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.1ms | Allocations: 20)
+  Rendered shared/_masthead.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.1ms | Allocations: 14)
+  Rendered shared/_search_modal.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_main_content.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 389)
+  Rendered layout layouts/application.html.erb (Duration: 11.3ms | Allocations: 3768)
+Completed 200 OK in 13ms (Views: 11.9ms | Allocations: 4015)
+
+
+Started GET "/" for ::1 at 2022-10-27 16:21:54 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.1ms | Allocations: 20)
+  Rendered shared/_masthead.html.erb (Duration: 0.3ms | Allocations: 14)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_search_modal.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_main_content.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 389)
+  Rendered layout layouts/application.html.erb (Duration: 9.0ms | Allocations: 3780)
+Completed 200 OK in 10ms (Views: 9.4ms | Allocations: 4023)
+
+
+Started GET "/" for ::1 at 2022-10-27 16:22:53 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.0ms | Allocations: 20)
+  Rendered shared/_masthead.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_search_modal.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_main_content.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 389)
+  Rendered layout layouts/application.html.erb (Duration: 6.3ms | Allocations: 3751)
+Completed 200 OK in 7ms (Views: 6.8ms | Allocations: 3994)
+
+
+Started GET "/" for ::1 at 2022-10-27 16:24:47 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.1ms | Allocations: 20)
+  Rendered shared/_masthead.html.erb (Duration: 0.1ms | Allocations: 14)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_search_modal.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_main_content.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 389)
+  Rendered layout layouts/application.html.erb (Duration: 10.5ms | Allocations: 3761)
+Completed 200 OK in 12ms (Views: 10.9ms | Allocations: 4004)
+
+
+Started GET "/" for ::1 at 2022-10-27 16:51:00 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.2ms | Allocations: 130)
+  Rendered shared/_masthead.html.erb (Duration: 0.2ms | Allocations: 109)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1610)
+  Rendered layout layouts/application.html.erb (Duration: 28.9ms | Allocations: 33981)
+Completed 200 OK in 32ms (Views: 30.7ms | ActiveRecord: 0.0ms | Allocations: 36411)
+
+
+Started GET "/" for ::1 at 2022-10-27 16:56:45 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.6ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.2ms | Allocations: 111)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 3.3ms | Allocations: 1274)
+  Rendered layout layouts/application.html.erb (Duration: 7.8ms | Allocations: 3945)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 4733)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/imagees/AA_Times_Logo.png"):
+  
+Started GET "/" for ::1 at 2022-10-27 16:58:00 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.3ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.2ms | Allocations: 111)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 3.2ms | Allocations: 1269)
+  Rendered layout layouts/application.html.erb (Duration: 6.4ms | Allocations: 3918)
+Completed 200 OK in 10ms (Views: 8.0ms | Allocations: 4668)
+
+
+Started GET "/~/app/assets/imagees/AA_Times_Logo.png" for ::1 at 2022-10-27 16:58:00 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/~/app/assets/imagees/AA_Times_Logo.png"):
+  
+Started GET "/" for ::1 at 2022-10-27 16:58:12 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.2ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.2ms | Allocations: 111)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 2.6ms | Allocations: 1269)
+  Rendered layout layouts/application.html.erb (Duration: 11.7ms | Allocations: 3943)
+Completed 200 OK in 14ms (Views: 13.0ms | Allocations: 4684)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/imagees/AA_Times_Logo.png"):
+  
+Started GET "/" for ::1 at 2022-10-27 16:58:21 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.3ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.2ms | Allocations: 111)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1269)
+  Rendered layout layouts/application.html.erb (Duration: 7.1ms | Allocations: 3946)
+Completed 200 OK in 10ms (Views: 8.8ms | Allocations: 4686)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/imagees/AA_Times_Logo.png"):
+  
+Started GET "/" for ::1 at 2022-10-27 16:58:35 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.3ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.3ms | Allocations: 111)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 3.3ms | Allocations: 1269)
+  Rendered layout layouts/application.html.erb (Duration: 7.7ms | Allocations: 3916)
+Completed 200 OK in 10ms (Views: 9.0ms | Allocations: 4649)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/AA_Times_Logo.png"):
+  
+Started GET "/" for ::1 at 2022-10-27 16:58:40 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.3ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.3ms | Allocations: 111)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 3.7ms | Allocations: 1270)
+  Rendered layout layouts/application.html.erb (Duration: 7.7ms | Allocations: 3951)
+Completed 200 OK in 10ms (Views: 9.1ms | Allocations: 4686)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/AA_Times_Logo.png"):
+  
+Started GET "/" for ::1 at 2022-10-27 16:58:43 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.6ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.3ms | Allocations: 111)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 3.8ms | Allocations: 1269)
+  Rendered layout layouts/application.html.erb (Duration: 8.3ms | Allocations: 3923)
+Completed 200 OK in 11ms (Views: 9.8ms | Allocations: 4656)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/AA_Times_Logo.png"):
+  
+Started GET "/" for ::1 at 2022-10-27 16:58:45 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.3ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.3ms | Allocations: 111)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.6ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 3.3ms | Allocations: 1270)
+  Rendered layout layouts/application.html.erb (Duration: 7.5ms | Allocations: 3930)
+Completed 200 OK in 10ms (Views: 8.8ms | Allocations: 4665)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/AA_Times_Logo.png"):
+  
+Started GET "/" for ::1 at 2022-10-27 16:58:49 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.3ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.2ms | Allocations: 111)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 3.6ms | Allocations: 1269)
+  Rendered layout layouts/application.html.erb (Duration: 8.0ms | Allocations: 3932)
+Completed 200 OK in 10ms (Views: 9.3ms | Allocations: 4666)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/AA_Times_Logo.png"):
+  
+Started GET "/" for ::1 at 2022-10-27 16:59:07 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.2ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.4ms | Allocations: 111)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.3ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1270)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 3927)
+Completed 200 OK in 7ms (Views: 6.1ms | Allocations: 4662)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/AA_Times_Logo.png"):
+  
+Started GET "/" for ::1 at 2022-10-27 16:59:13 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.3ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.2ms | Allocations: 111)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1270)
+  Rendered layout layouts/application.html.erb (Duration: 6.1ms | Allocations: 3921)
+Completed 200 OK in 8ms (Views: 7.3ms | Allocations: 4656)
+
+
+Started GET "/app/assets/images/AA_Times_Logo.png" for ::1 at 2022-10-27 16:59:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/AA_Times_Logo.png"):
+  
+Started GET "/" for ::1 at 2022-10-27 16:59:19 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.2ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.2ms | Allocations: 111)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1272)
+  Rendered layout layouts/application.html.erb (Duration: 6.2ms | Allocations: 3920)
+Completed 200 OK in 8ms (Views: 7.3ms | Allocations: 4655)
+
+
+Started GET "/app/assets/images/AA_Times_Logo.png" for ::1 at 2022-10-27 16:59:19 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/AA_Times_Logo.png"):
+  
+Started GET "/" for ::1 at 2022-10-27 16:59:53 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.5ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.3ms | Allocations: 111)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 3.7ms | Allocations: 1269)
+  Rendered layout layouts/application.html.erb (Duration: 8.2ms | Allocations: 3932)
+Completed 200 OK in 11ms (Views: 9.4ms | Allocations: 4666)
+
+
+Started GET "/" for ::1 at 2022-10-27 17:04:36 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 1.6ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.5ms | Allocations: 113)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.1ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 5.7ms | Allocations: 1272)
+  Rendered layout layouts/application.html.erb (Duration: 9.6ms | Allocations: 3944)
+Completed 200 OK in 11ms (Views: 10.5ms | Allocations: 4684)
+
+
+Started GET "/" for ::1 at 2022-10-27 17:06:27 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.6ms | Allocations: 116)
+  Rendered shared/_masthead.html.erb (Duration: 0.3ms | Allocations: 112)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_search_modal.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered shared/_main_content.html.erb (Duration: 0.2ms | Allocations: 81)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 3.6ms | Allocations: 1270)
+  Rendered layout layouts/application.html.erb (Duration: 10.0ms | Allocations: 3911)
+Completed 200 OK in 12ms (Views: 11.2ms | Allocations: 4649)
+
+
+Started GET "/" for ::1 at 2022-10-27 17:11:46 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.1ms | Allocations: 20)
+  Rendered shared/_masthead.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_search_modal.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_main_content.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 389)
+  Rendered layout layouts/application.html.erb (Duration: 9.0ms | Allocations: 3859)
+Completed 200 OK in 11ms (Views: 9.7ms | Allocations: 4119)
+
+
+Started GET "/" for ::1 at 2022-10-27 17:14:11 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.1ms | Allocations: 20)
+  Rendered shared/_masthead.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_search_modal.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_main_content.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 389)
+  Rendered layout layouts/application.html.erb (Duration: 11.6ms | Allocations: 3767)
+Completed 200 OK in 13ms (Views: 12.4ms | Allocations: 4011)
+
+
+Started GET "/" for ::1 at 2022-10-27 17:14:38 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (Duration: 0.1ms | Allocations: 20)
+  Rendered shared/_masthead.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_sections_nav.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_search_modal.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered shared/_main_content.html.erb (Duration: 0.0ms | Allocations: 14)
+  Rendered static_pages/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 389)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 2651)
+Completed 200 OK in 6ms (Views: 5.5ms | Allocations: 2895)
+
+
